@@ -1,0 +1,23 @@
+ul:nth-of-type(1) {
+    list-style: none;
+}
+
+ul:nth-of-type(2) {
+    list-style: circle;
+}
+
+ul:nth-of-type(3) {
+    list-style: square;
+}
+
+ul:nth-of-type(4) {
+    list-style: decimal;
+}
+
+ul:nth-of-type(5) {
+    list-style: upper-roman;
+}
+
+ul:nth-of-type(6) {
+    list-style: upper-alpha;
+}
