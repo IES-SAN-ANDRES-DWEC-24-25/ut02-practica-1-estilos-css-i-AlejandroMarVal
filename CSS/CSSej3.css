@@ -1,0 +1,17 @@
+.primer {
+    border: solid 1px #ffbdbd;
+    background-color: #ffffaa;
+    padding: 100px 0px 0px 30px;
+    margin-top: 50px;
+}
+
+.segundo {
+    border: solid 1px #ffbdbd;
+    background-color: #ffffaa;
+    padding: 100px 0px 0px 30px;
+    margin-top: 50px;
+}
+
+p {
+    font-weight: bold;
+}
